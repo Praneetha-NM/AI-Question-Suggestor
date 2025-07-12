@@ -1,0 +1,8 @@
+streamlit
+torch
+torchaudio
+ffmpeg-python
+gdown
+git+https://github.com/m-bain/whisperx.git
+google-cloud-aiplatform
+vertexai
